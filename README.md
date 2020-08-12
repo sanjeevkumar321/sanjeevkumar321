@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: kahna
 - ⚡ Fun fact: English problem!😁
 
-
-![Sanjeev Kumar sahoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&theme=graywhite&show_icons=true)
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&theme=graywhite&show_icons=true" alt="Sanjeev's github stats" />
