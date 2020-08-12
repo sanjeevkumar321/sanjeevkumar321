@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/sanjeev-kumar-sahoo-0112b3185)
 - 😄 Pronouns: kahna
 - ⚡ Fun fact: English problem!😁
-<br>
 
 ### Github Info 💻
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&theme=graywhite&show_icons=true" alt="Sanjeev's github stats" />
