@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: English problem!😁
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&theme=graywhite&show_icons=true" alt="Sanjeev's github stats" />
+ 
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
