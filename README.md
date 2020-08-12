@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: English problem!😁
 
 
-![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&show_icons=true&hide=[%22issues%22])
-
-[![HitCount](http://hits.dwyl.com/sanjeevkumar321/sanjeevkumar321.svg)](http://hits.dwyl.com/sanjeevkumar321/sanjeevkumar321)
+![Sanjeev Kumar sahoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&theme=graywhite&show_icons=true)
