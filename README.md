@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: English problem!😁
 
 > ### Github Info ⚡️
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&theme=graywhite&show_icons=true" alt="Sanjeev's github stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&theme=dark&show_icons=true" alt="Sanjeev's github stats" />
  
 ### Skills 👨‍💻
 <img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
