@@ -10,11 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/sanjeev-kumar-sahoo-0112b3185)
 - 😄 Pronouns: kahna
-- ⚡ Fun fact: English problem!😁
 
-> ### Github Info ⚡️
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar321&theme=light&show_icons=true" alt="Sanjeev's github stats" />
- 
+
 ### Skills 👨‍💻
 <img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg"/>
 <img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
